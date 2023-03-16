@@ -1,0 +1,40 @@
+/*esto es el codigo del menu*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+    /*esto es el codigo del menu*/
+  }
+
+  /*el tamaño es para el gato*/
+.tamaño1_imagengato{
+ width: 235px;
+ height: 160px;
+ border-style: solid;
+ border-width: medium;
+ /*el tamaño es para el gato*/
+}
+.tamaño1_imagenperro{
+width: 235px;
+height: 160px;
+border-style: solid ;
+border-style: medium ;
+}
