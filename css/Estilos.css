@@ -1,11 +1,70 @@
-.tamannio_imagen_1{
+.tamannio_imagen_1 {
     width: 235px;
     height: 160px;
     border-style: solid;
     border-width: medium;
 }
-
+.color_letters{
+    color: rgb(158, 158, 158)
+}
 .border_1 {
     border-style: solid;
     border-width: medium;
-  }
+}
+
+.border_2 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(51, 51, 51);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(17, 17, 17);
+}
+
+div {
+    margin-bottom: 2%;
+}
+
+/*        body {
+            background-color: rgb(255, 255, 255);
+        }
+        a:link, a:visited{
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        }
+        a:hover, a:active {
+        background-color: rgb(0, 0, 0);
+        border: rgb(255, 255, 255);
+        }
+        a:hover{
+            color: rgb(255, 255, 255);
+            border: rgb(255, 255, 255);
+            border-style: solid;
+            border-width: medium;
+        }*/
