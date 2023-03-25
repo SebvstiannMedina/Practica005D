@@ -5,11 +5,12 @@
     border-width: medium;
 }
 .color_letters{
-    color: rgb(158, 158, 158)
+    color: rgb(92, 92, 92)
 }
 .border_1 {
     border-style: solid;
     border-width: medium;
+    
 }
 
 .border_2 {
@@ -47,6 +48,23 @@ div {
     margin-bottom: 2%;
 }
 
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    margin-top: 5%;
+    margin-left: 0%;
+}
+h4{
+    text-align: center;
+
+}
 /*        body {
             background-color: rgb(255, 255, 255);
         }
