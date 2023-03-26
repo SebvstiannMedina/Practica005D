@@ -31,14 +31,14 @@ li a.active {
 /*este es el codigo de estilo para el menu*/
 
   /*el tamaño es para el gato*/
-.tamaño1_imagengato{
+.tamano1_imagengato{
  width: 235px;
  height: 160px;
  border-style: solid;
  border-width: medium;
  /*el tamaño es para el gato*/
 }
-.tamaño1_imagenperro{
+.tamano1_imagenperro{
 width: 235px;
 height: 160px;
 border-style: solid ;
@@ -47,7 +47,7 @@ border-style: medium ;
 
 /*Esto es para colocar la imagen con borde*/
 
-.tamaño1_perro_gato{
+.tamano1_perro_gato{
 width: 56%;
 height: 22%;
 border-style:solid ;
@@ -57,4 +57,19 @@ border-style: medium;
 
 body{
   background-color: rgba(4, 255, 255, 0.986);
+}
+
+/*Esto es para la imagen de perros y gatos*/
+
+.tamano1_perroygato{
+width: 27%;
+height: 50%;
+border-style: solid;
+border-style: medium;
+}
+/*Esto es para las tablas*/
+
+table, th, td {
+  border:1px solid;
+  background-color: rgb(red, green, blue);
 }
