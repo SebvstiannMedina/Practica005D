@@ -39,12 +39,13 @@ ul {
   .tamanio_gato_colage{
   border-style: medium;
   border-style: solid;
-  width: 41%;
+  width: 39%;
   height: 50%;
+  margin-left: 18%;
   }
 
   table, th, td {
-    border:1px solid black;
+    border:1px solid rgb(0, 0, 0);
   }
 
   .centrado{
