@@ -42,3 +42,12 @@ ul {
   width: 41%;
   height: 50%;
   }
+
+  table, th, td {
+    border:1px solid black;
+  }
+
+  .centrado{
+
+    text-align: center;
+  }
